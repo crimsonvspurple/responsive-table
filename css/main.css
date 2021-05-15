@@ -98,6 +98,9 @@ textarea {
   grid-template-rows: repeat(10, auto);
 }
 
+.rowGroup {
+  display: contents;
+}
 /*.gridTable > div:nth-child(8n - 7) {*/
 /*  grid-area: Name;*/
 /*}*/

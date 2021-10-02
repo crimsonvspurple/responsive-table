@@ -5,7 +5,7 @@ Just a personal experiment with CSS Grid to achieve something that, in theory, s
 
 # Results
 
-I remember it would have been possible to use one grid for this thing, but the main issue seems to be they dropping `subgrid` from the spec and moving it to level 2.
+I remember it would have been possible to use one grid for this thing, but the main issue seems to be the dropping of `subgrid` from the spec and moving it to level 2.
 So we can do this in a few ways:
 
 - Use a full `<table><tr><td>` for large views
